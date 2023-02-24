@@ -1,6 +1,6 @@
 ---
 title: Is SAR keeping up? A study of SAR treaties and their evolution
-linktitle: Is SAR keeping up? A study of SAR treaties and their evolution
+linktitle: Manthei | Is SAR keeping up? A study of SAR treaties and their evolution
 type: book
 date: '2019-05-05T00:00:00+01:00'
 
