@@ -7,7 +7,7 @@ date: '2019-05-05T00:00:00+01:00'
 weight: 2
 ---
 
-# Introduction
+## Introduction
 
 Climate change and its consequences are undeniably in the top ranks of the most pressing issues of our time and yet still ignored by many.^[@2015Transforming p.5 para. 14.] It is becoming an increasingly strong and destructive phenomenon that requires the attention of legal framework approaches to address its impacts. The window of opportunity stands slightly open, calling for swift but cautious decision making, as the next ten years have been heralded in scientific assessments as a ‘critical decade’ for action on climate change.[See @McDonald2020Oceans] In the field of the International law of the Sea, the rise of the sea level is of particular interest, as it raises questions concerning the determination of (shifting) baselines, the reduction of national territory and even the disappearance of States.
 
@@ -27,7 +27,7 @@ In hindsight of the SIDS, the regimen over the maritime entitlements of the disa
 
 Each part will close with a conclusion summarizing the suggestions of those two problems, ultimately finishing with solutions the authors find the appropriate ones.
 
-# Current state of climate change
+## Current state of climate change
 
 The impacts of climate change are becoming more noticeable. The warming of the climate in general, natural catastrophes, melting of glaciers and sea level rise are just some examples of climate change. [@Team2014Climate pp. 13 ff.] These impacts partly correlate with each other, as the warming of the climate will lead to the melting of glaciers which results in a rise of the sea level. Climate change is a process contributed to by different factors. One of these factors are greenhouse gases which are also caused by humankind.^[Greenhouse gases include carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs) and sulphur hexafluoride (SF6) as stated in Annex A, @1997Kyoto; see also @Team2014Climate p. 5.] The rise of greenhouse gases will increase the so called greenhouse effect, ultimately contributing to climate change and in particular to sea level rise. It can be observed, that human beings are major contributors to climate change and sea level rise. Besides the sea level rise itself, marine spaces are in the course of climate change additionally endangered by acidification of the and a temperature rise in the ocean, very likely respectively with high confidence caused by human beings according to the IPCC.[@Carr2013Sea pp. 16 f.; @Team2014Climate pp. 45 ff.; @Team2014Climate p. 88]
 
@@ -41,11 +41,11 @@ Against this background, unsurprisingly it is projected that among the first Sta
 
 Climate change causes various impacts and is manly caused by human beings. The sea level will rise until 2100 between 0,29 and 110 cm, which mainly - but not just exclusively - puts low-lying islands and its inhabitants into danger. This means, climate change is a phenomenon which must be regulated by legal frameworks to address its destructive impacts.
 
-# Marine Spaces and maritime Features under the UNCLOS
+## Marine Spaces and maritime Features under the UNCLOS
 
 The United Nations Convention on the Law of the Sea operates with a spatial division of the ocean to reconcile the interests of States.^[@Tanaka2019International p. 5; classifying this as one of the two paradigms of the Convention.] Through this division, several different zones with differing rights over each zones are established. Those zones can be categorized by the influence of the coastal States in these zones. On the one hand there are zones which are under the national jurisdiction of the coastal States. ^[Namely internal waters, territorial sea, archipelagic waters, the contiguous zone, the exclusive economic zone and the continental shelf.] On the other hand, zones which lie beyond national jurisdiction can be identified.^[Namely the high seas and the area.] Certain maritime features can alter the zones.
 
-## Maritime Zones
+### Maritime Zones
 
 To be able to understand the problematics originating from rising sea levels, we have to understand the maritime zones and their effects.
 
@@ -77,7 +77,7 @@ The continental shelf is a natural seaward extension of the land mass.^[Art. 76 
 
 According to the UNCLOS, the ocean surface and the water column beyond the EEZ are referred to as the high seas, whilst the seabed beyond the limits of national sovereignty is summarized under the neutral collective term *"Area"*.^[Art. 1 No. 1 UNCLOS.] The high seas and the area are international common spaces,^[Other State free areas are Antarctica and the space with its celestial bodies.] meaning, they are not subject to any States sovereignty,^[Art. 89 UNCLOS.] but only to the corresponding international law regime. [@Burgess2017Law p. 14] States can conduct activities in these spaces as long as they are for peaceful purposes, such as transit, marine science, and undersea exploration.[@Burgess2017Law p.14] Natural resources are a much more complicated matter, but of little concern for the question at hand.^[See for more insights into the problematics around natural resources @Brown1988See]
 
-## Maritime Features
+### Maritime Features
 
 Among others ^[Bays, Rivermouths.], the following maritime features can influence the way maritime zones are drawn. These features are also endangered in the process of the sea level rise.
 
@@ -101,9 +101,9 @@ Reefs are formations of coral, roughly shaped like mountains, which run just bel
 
 States have the right to construct artificial islands, installations and structures within their EEZ.^[Art. 60 UNCLOS.] Since they are not naturally occurring, artificial features do not create a territorial sea, contiguous zone, EEZ, or continental shelf.[@Burgess2017Law p.16; Exceptions have been made, for more information see @Dipla2012Islandsa No.B.1.4]
 
-# Baselines
+## Baselines
 
-## Functions and Purposes of Baselines
+### Functions and Purposes of Baselines
 
 Against the background of the differing national influence of the coastal State in each maritime zone, it is necessary to establish these. The UNCLOS bases the division of marine spaces on distances, starting the measurement from the baseline. [@Carleton2001Developments p. 17; @Prescott2005maritime p. 93; @Truempler2007Grenzen p. 29] According to Art. 3 UNCLOS "*every State has the right to establish the breadth of its territorial sea up to a limit not exceeding 12 nautical miles, __measured from baselines__* (emphasis added) *determined in accordance with this Convention.*". The same procedure can be observed for other zones, for instance the EEZ, the contiguous zone as well as the continental shelf. ^[See Art. 33 para 2 UNCLOS for the contiguous zone, Art. 57 UNCLOS for the EEZ and Art. 76 para 1 UNCLOS for the continental shelf; all stating the measurement "_from the baselines (...)._"] Thence, the first function of baselines can be identified: they act as a key point to define the different maritime zones. [@Lathrop2015Baselines p. 70; @Prescott2005maritime p. 93; @Schofield2009Shifting p. 407]
 
@@ -113,7 +113,7 @@ Furthermore, baselines become important where two States share overlapping marit
 
 Thence, baselines play an important role in the International Law of the Sea and have essentially a threefold purpose [@Rothwell2016International p. 33; @Nelson2012Sofia p. 5]: they serve as a starting point for measuring different maritime zones and the delimitation of State territory from marine spaces and are relevant for overlapping zones between two States.
 
-## Methods of establishing Baselines under UNCLOS
+### Methods of establishing Baselines under UNCLOS
 
 States can establish baselines in a few ways in accordance with the UNCLOS. These various ways of creating such are a result of specific geographic coastal situations in which the application of normal baselines would just be impractical. [@Truempler2017Article Art. 5 UNCLOS para 2] Starting with the normal baselines, this part provides an overview over the different methods of establishing baselines in accordance with the UNCLOS.
 
@@ -150,7 +150,7 @@ Besides normal baselines in Art. 5 UNCLOS, the Convention provides different reg
 
 Of certain interest regarding the addressed issue by this paper are straight baselines, calling for a short comment on them. According to Art. 7 para 1 UNCLOS, it is permitted to draw straight baselines "*where the coastline is deeply indented and cut into, or if there is a fringe of islands along the coast in its immediate vicinity*". States can then draw baselines from appropriate points. Where there is a delta or a highly unstable coastline exists, the appropriate points may lie along the furthest seaward extent of the low-water line according to Art. 7 para 2 UNCLOS. In this case, such drawn baselines "*remain effective until changed by the coastal State*". ^[See Art. 7 para 2 UNCLOS.] However, it is worth noting that "*the drawing of straight baselines must not depart to any appreciable extent from the general direction of the coast (...)*" according to Art. 7 para 3 UNCLOS. Details regarding straight baselines are highly debatable. For the purpose of this paper, a fundamental understanding of straight baselines seems to be adequate.
 
-## impacts of climate change on baselines
+### impacts of climate change on baselines
 
 Against the background of the ambulatory character of normal baselines, these will shift landwards when the low-water line moves landward as a consequence of sea level rise. The landward movement of baselines is concomitant with a new base for the measuring of the maritime zones, ultimately leading to a shift of these zones in the direction of the land compared to the current situation. [@Mayer2020Climate p. 357; @Stoutenberg2011Implementing p. 268; @Hayashi2011Sea p. 190] Affected by this development will be all distance-measured zones, namely the territorial sea, the contiguous zone, (partly) the continental shelf and the EEZ. Although a slightly shifting of baselines landward might seem at first glance insignificant in proportion to the breadth of the EEZ (in example a shift of 2 nm landward is comparatively small when looking at the 200 nm breadth of the EEZ), it must be noted that such a shift has a proportionally bigger influence on the territorial sea. [@Bird1989Rising p. 193] Still even a loss of two nm of the EEZ is of interest for the coastal State, as it is estimated that around 87 % of the world´s undersea hydrocarbon reserves are located in the seabed and subsoil in the EEZ and the continental shelf. [@OceanAffairsUnited section about the EEZ.] Also, the coastal State would lose the possibility of regulating the fishery ^[Namely the prohibition of fishery, price regulations and general conditions.] in the EEZ ^[As stated in Art. 61 ff. UNCLOS.] as the "lost" area would fall into the high seas and would be open for the usage of all States in accordance with Art. 87 UNCLOS. [@Powers2013Introducing p. 131, p. 133] In other words, the influence and the rights assigned to the coastal State shift in direction of the land going along with a loss of influence in the outermost marine space compared to the influence nowadays. It seems to be clear that most States do not favor such a development, but would rather like to keep their influence as it is currently.
 
@@ -158,7 +158,7 @@ However, as sea level rise in general comes with regional differences, the actua
 
 Summarizing, coastal States potentially face a great loss of resources as their claims for different marine spaces shift landwards provided an ambulatory character of baselines. Thus, the influence of climate change on baselines cannot be underestimated.
 
-# Solutions to the problem of landward shifting baselines
+## Solutions to the problem of landward shifting baselines
 
 This paper only examines solutions in the situation where there are neither agreements between States nor arbitrational or adjudicational settlements for the delimitation of maritime boundaries.^[For further reading on this matter, see in example: @Soons1990effects pp. 226 ff.; @Arnadottir2020Effects chapter 19, pp. 382-406] The legal discussion for such situations would go beyond the scope of this paper. Basically, this section deals with the pure situation of a coastal State that is able to claim rights over maritime zones in accordance with the UNCLOS. In a first step, proposed solutions will be presented and in a second step the consequences of each approach will be examined.
 
@@ -211,7 +211,7 @@ Another option is to freeze the outer limits of the EEZ only. This would mean to
 
 This approach was also subject to the discussions of the International Law Association Committee on International Law and Sea Level Rise.^[See the proposal from Freestone: @Vidas2017Inter p. 3] Still, this approach was only slightly touched and was not discussed in the full scope. Neither does it appear in the final report on this matter of the ILA Committee [@Vidas2018Sydney; also not explicitly addressed by @Roach2018Sea p. 366]. Thus, it seems to be necessary to evaluate the impacts of such an approach. In this approach, baselines would ambulate and would still be the crucial point for determining the outer limits of the EEZ. The territorial sea would be, in contrast to the EEZ, decoupled from the baseline and would not be determined by distance any more. Accordingly, the gained waters (as a cause of baselines shifting landwards) would fall into the territorial sea, ultimately leading to an increase of the width of it. While the territorial sea would grow larger than their designated breadth of 12 nm according to Art. 3 UNCLOS, the breadth of the EEZ would shrink. Consequently, States would then lose influence further seawards. In the case of a shift of more than 200 nm landwards, the zone of the territorial sea would supercede the EEZ. In this case the part of the UNCLOS addressing the EEZ would become irrelevant as the territorial sea is governed by a separate part of the Convention. Thus, this would not be in the interest of States, as they essentially do not want to lose their influence further seawards of the current outer limits of the territorial sea.
 
-# Evaluation
+## Evaluation
 
 All the presented solutions above face in one or the other way different and various challenges and certain legal implications. First of all, it is worth noting that the drawers of the UNCLOS did not explicitly address the upcoming problem of climate change and the legal implications coming with it. [@Rayfuse2009Whither p. 5; @Freestone1991International p. 115; @Moritaka2013Islands p. 10] This said, it is not surprising that the UNCLOS itself is silent on that matter. [@Rayfuse2010International p. 3; @Hayashi2011Sea p. 194] By negative implication or rather an argument a contrario, it can be observed that the UNCLOS does not know any state of permanence neither for marine spaces nor for baselines (exceptions are the continental shelf and straight baselines) which would be important in order to prevent the lose of marine entitlements seawards. ^[See therefore also the discussion about the ambulatory character of baselines.] This clearly indicates that other marine boundaries than the boundary of the continental shelf and straight baselines are not meant to be of a durable state. ^[This is the only consistent following consequence of ambulatory baselines. See for further details and proof section about normal baselines.] Following this, it must be concluded that none of the 'freezing-solutions' presented above bases on a legal ground of the UNCLOS (which all rely on a fixing/freezing of current zones/boundaries) and only fragments of regulations of the UNCLOS can be interpreted or rather used to find a kind of - even if only partly - solution for this matter. [@Rayfuse2009Whither p. 5]
 
@@ -239,7 +239,7 @@ At first glance, an approval of all methods of freezing would at least be concei
 
 To conclude, out of the proposed freezing methods, the approach of maintaining only the outer limits of the EEZ seems to be the most conceivable option. Firstly, it would only decouple the baseline-dependency of one maritime boundary. At the same time, States would not lose their economic interests seawards while there is no increase of sovereign rights or even territorial sovereignty speaking breadth-wise. Finally, it would also be consistent with the ambulatory character of baselines and speaking practically, would only lead to a development of a new legal tool (for further discussion see following section) for one maritime zone. Additionally, the freezing of the outer limits of the EEZ seems to be already anchored in the UNCLOS through the permanent state of the continental shelf regime. The possible legal incorporation of such will be discussed in the following.
 
-# Possible Legal Incorporation
+## Possible Legal Incorporation
 
 After identifying possible solutions to adopt baselines to sea level rise, it is necessary to examine how these solutions can potentially come into force in light of a legal incorporation. This is especially important because none of the presented solutions find a legal base in the UNCLOS.
 
@@ -262,7 +262,7 @@ Furthermore, it seems possible that a State could claim historic rights over his
 
 To sum up, there are a few ways to decide on an appropriate solution regarding the shifting of baselines making it legally binding. However, it seems unlikely that States will agree on a new amendment to the UNCLOS as well as the establishment of international customary law seems to be impractical in this matter. Thus, it is desirable to reach a global treaty including all States to solve this matter.
 
-# Conclusional Remarks
+## Conclusional Remarks
 
 Climate change and the rise of the sea level are urgent issues, endangering coastlines around the world. Although predictions of the IPCC differ due to the scenario taken as a basis, it is clear that the sea level rise has a significant impact until the end of the century making it a pressing topic due to the relatively close time frame. Among the territory of the State the baselines, which serve as a base for the delimitation of most maritime zones, will be affected by the sea level rise. A crucial and decisive measure setting the way ahead is the question of the ambulatory character of baselines. Under the assumption that baselines are not - in a legal sense - ambulatory, they will not change compared to baselines shown on the charts at some point. Thus, making the legal responses in this regard obsolete. In contrast, provided the (preferable) ambulatory character of baselines, they will essentially shift landwards as they are the actual low-water line. Such a shifting is concomitant among other disadvantages with a loss of territory and further seawards with a loss of certain rights. Thus, the interest of many States is to keep (at least) the current state of influence in accordance with the UNCLOS.
 
@@ -272,4 +272,4 @@ Nonetheless, it seems reasonable to find a solution as the most affected States 
 
 Still, it must be stressed that there is indeed a need of legal incorporation of such a solution. There exist a few ways to achieve this. However, it seems unlikely that States make use of amendments to the Convention nor can they rely on historic rights in this matter. Although a certain fragmented State practice can be identified in this matter, this cannot be regarded as international customary law yet. Therefore, the authors highly suggest a separate treaty which would be negotiated by States concerned. This would lead to a (hopefully) fair, legally binding and most importantly global solution which is highly desirable in this matter.
 
-# References
+## References
