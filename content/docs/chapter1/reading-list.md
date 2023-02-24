@@ -11,7 +11,7 @@ weight: 2
 
 ## Introduction
 
-Climate change and its consequences are undeniably in the top ranks of the most pressing issues of our time and yet still ignored by many.[^1] It is becoming an increasingly strong and destructive phenomenon that requires the attention of legal framework approaches to address its impacts. The window of opportunity stands slightly open, calling for swift but cautious decision making, as the next ten years have been heralded in scientific assessments as a ‘critical decade’ for action on climate change.[^2] In the field of the International law of the Sea, the rise of the sea level is of particular interest, as it raises questions concerning the determination of (shifting) baselines, the reduction of national territory and even the disappearance of States.[^](Test)
+Climate change and its consequences are undeniably in the top ranks of the most pressing issues of our time and yet still ignored by many.[^1] It is becoming an increasingly strong and destructive phenomenon that requires the attention of legal framework approaches to address its impacts. The window of opportunity stands slightly open, calling for swift but cautious decision making, as the next ten years have been heralded in scientific assessments as a ‘critical decade’ for action on climate change.[^2] In the field of the International law of the Sea, the rise of the sea level is of particular interest, as it raises questions concerning the determination of (shifting) baselines, the reduction of national territory and even the disappearance of States.[^Test]
 
 [^1]: @2015Transforming p.5 para. 14.
 [^2]: See @McDonald2020Oceans
