@@ -1,9 +1,9 @@
 ---
-title: Docs
+title: Welcome
 type: book # Do not modify.
 toc: false
 ---
 
-Welcome to the _Project Docs_ template!
+Welcome to the openLOS online book!
 
-{{< cta cta_text="👉 Get Started with Chapter 1" cta_link="chapter1" >}}
+{{< cta cta_text="👉 Read the book" cta_link="chapter1" >}}
