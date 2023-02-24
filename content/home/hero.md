@@ -7,7 +7,7 @@ hero_media: book.svg
 design:
   background:
     gradient_start: '#0271bb'
-    gradient_end: '#e2001a'
+    gradient_end: '#0271bb'
     text_color_light: true
 cta:
   url: docs/
