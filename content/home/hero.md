@@ -2,16 +2,16 @@
 widget: hero
 headless: true
 weight: 10
-title: Project Docs Template
+title: openLOS (dummy)
 hero_media: book.svg
 design:
   background:
-    gradient_start: '#4bb4e3'
-    gradient_end: '#2b94c3'
+    gradient_start: '#0271bb'
+    gradient_end: '#e2001a'
     text_color_light: true
 cta:
   url: docs/
-  label: Get Started
+  label: The online book
   icon_pack: fas
   icon: download
 cta_alt:
