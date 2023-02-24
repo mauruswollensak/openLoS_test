@@ -13,15 +13,15 @@ weight: 2
 
 Climate change and its consequences are undeniably in the top ranks of the most pressing issues of our time and yet still ignored by many.[^1] It is becoming an increasingly strong and destructive phenomenon that requires the attention of legal framework approaches to address its impacts. The window of opportunity stands slightly open, calling for swift but cautious decision making, as the next ten years have been heralded in scientific assessments as a ‘critical decade’ for action on climate change.[^2] In the field of the International law of the Sea, the rise of the sea level is of particular interest, as it raises questions concerning the determination of (shifting) baselines, the reduction of national territory and even the disappearance of States.
 
-[^1]: @2015Transforming p.5 para. 14.
-[^2]: See @McDonald2020Oceans
+[^1]: United Nations (2015). Transforming our world: the 2030 Agenda for Sustainable Development, p. 5 (para. 14). Available at: http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=E.
+[^2]: See McDonald, J., McGee, J., & Barnes, R. (2020). Oceans and coasts in the era of Anthropogenic climate change. Research Handbook on Climate Change, Oceans and Coasts, 2–26. https://doi.org/10.4337/9781788112239.00006.
 
 According to the worst-case scenario stated by the Special Report on the Ocean and Cryosphere in a Changing Climate of the Intergovernmental Panel on Climate Change (hereinafter abbreviated as IPCC), the sea level is estimated to rise between 0,61 m and 1,10 m until 2100.[^3] Even from a slightly more optimistic perspective, the sea level is likely to increase about 29 cm.[^4] When taking a look at the newest evidence, that slight optimism is likely to disappear again though, as current sea levels are higher than any forecast expected them to be by now.[^5] Those figures may seem insignificant at first glance, but already induce remarkable and somewhat disastrous consequences for some countries. For instance, it is estimated that with a rise of only 21 cm of the sea level 316-411 million people will be affected by this global development by 2060.[^6] A living example of what lies ahead is the Republic of Kiribati, a nation of low-lying islands and atolls in the central Pacific. The rising ocean has broken through freshwater ponds on some islands, threatening numerous communities, some villages will submerge and even whole islands were already swallowed by the sea.[^7] By 2100 the country is likely to be completely uninhabitable.[^8] But not only islands are in danger, coastal States are concerned by this progressing development. The sea level rise will cause damages to the coastal environment and will result in disappearance of national territory.[^9]
 
-[^3]: @Oppenheimer2019Sea p. 324
-[^4]: @Oppenheimer2019Sea p. 324
-[^5]: See @Tirone2021Sea
-[^6]: @Neumann2015Future p. 19; @Oppenheimer2019Sea p. 376.
+[^3]: Michael Oppenheimer and Bruce C. Glavovic and Jochen Hinkel and Roderik van der Wal and Alexandre Magnan and Amro Abd-Elgawad and Rongshuo Cai and et. al (2019). IPCC Special Report on the Ocean and Cryosphere in a Changing Climate, p. 324
+[^4]: Ibid, p. 324.
+[^5]: See Jonathan Tirone (2021). Sea Levels Are Rising Faster Than Most Pessimistic Forecasts.
+[^6]: B. Neumann and AT. Vafeidis and J. Zimmermann and R. Nicholls (2015). Future Coastal Population Growth and Exposure to Sea-Level Rise and Coastal Flooding in PLoS ONE, p. 19; Oppenheimer, p. 376.
 [^7]: @Klepp2013Klimabewegung p.4; @Kirby1999Islands; @KiribatiClimate
 [^8]: @Klepp2013Klimabewegung pp. 4 f.; See for visualization @Mulhern2020Sea.
 [^9]: @Oppenheimer2019Sea pp. 367 ff.
